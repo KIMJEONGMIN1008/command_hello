@@ -1,4 +1,3 @@
-$ cat hello.py
 // For command line git_tutorial
 // First: GiitHub modification
 // Second: Local repository modification
