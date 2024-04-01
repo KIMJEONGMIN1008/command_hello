@@ -1,5 +1,7 @@
+$ cat hello.py
 // For command line git_tutorial
-// Local repository modification
+// First: GiitHub modification
+// Second: Local repository modification
 
 print ("Hello world")
 print ("Tell your world")
